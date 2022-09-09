@@ -50,7 +50,7 @@ local computer. If you haven't, do that first. You can find instructions in the 
 What Do I Do Next?
 ------------------
 
-If you have checked out a local copy of your repository you can start making changes
+If you have checked out a local copy of your repository you can start making changes this is a first change
 to the sample code.  We suggest making a small change to index.py first, so you can
 see how changes pushed to your project's repository are automatically picked up by your
 project pipeline and deployed to AWS Lambda and Amazon API Gateway. (You can watch the pipeline
